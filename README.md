@@ -1,10 +1,12 @@
 *This vivo tool doesn't require root access*
 ---
 **How to run the script:**  
-First step:  
+
+`First step:`   
+
 Create a `txt file`  
 Go to your txt file and paste the code inside the `script folder` after that save it.  
-Then rename it, change the extension file from `txt` to `ps1`  
+Then rename it, change the extension file from `txt` to `ps1`. 
 
 Vivo Tool Feature:
 ```
