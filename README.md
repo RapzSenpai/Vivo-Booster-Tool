@@ -1,4 +1,4 @@
-**How to run the script:**  
+# How to run the script:  
 *This vivo tool doesn't require root access*
 ---
 `First step:`   
