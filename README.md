@@ -4,7 +4,8 @@
 `First step:`   
 - Create a `txt file`  
 - Go to your txt file and paste the code inside the `script folder` after that save it.  
-- Then rename it, change the extension file from `txt` to `ps1`. 
+- Then rename it, change the extension file from `txt` to `ps1`.
+- right click the file then `run with powershell`  
 
 Vivo Tool Feature:
 ```
