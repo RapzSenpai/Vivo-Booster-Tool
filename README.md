@@ -1,9 +1,11 @@
 **This vivo tool doesn't require any root access**
 ---
-`How to run the script:`  
+How to run the script:
+---
 First step:  
 Create a `txt file`  
-Go to your txt file and paste the code inside the `script folder` after that save it.
+Go to your txt file and paste the code inside the `script folder` after that save it.  
+Then rename it, change the extension file from `txt` to `ps1`
 Vivo Tool Feature:
 ```
 1. 🚀 Enable Gaming Mode
