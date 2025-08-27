@@ -2,7 +2,7 @@
 *This vivo tool doesn't require root access*  
 
 `First step:`   
-- turn on `developers option` in your device (Don't know how to turn on dev options? Search it on your youtube)
+- turn on `developers option` in your device (Don't know how to turn on dev options? Search it on youtube)
 - enable `usb debugging`
 - Create a `txt file` name it `vivoBooster` (You can name it anything)
 - Go to your txt file and paste the code inside the `script folder` after that save it.  
