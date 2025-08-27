@@ -2,12 +2,18 @@
 *This vivo tool doesn't require root access*  
 
 `First step:`   
+- turn on developers option in your device
+- enable usb debugging
 - Create a `txt file` name it `vivoBooster` (You can name it anything)
 - Go to your txt file and paste the code inside the `script folder` after that save it.  
 - Then rename it, change the extension file from `txt` to `ps1`.
 - right click the file then `run with powershell`
 - Enjoy!
-
+# Problem finding the extension file?
+- click view in `folder explorer`
+- show
+- check the `file name extension`
+  
 # Vivo Tool Feature:
 ```
 1. 🚀 Enable Gaming Mode
