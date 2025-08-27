@@ -10,7 +10,7 @@
 - right click the file then `run with powershell`
 - Enjoy!
 # Problem finding the extension file?
-- click view in `folder explorer`
+- click `view` in **folder explorer**
 - show
 - check the `file name extension`
   
