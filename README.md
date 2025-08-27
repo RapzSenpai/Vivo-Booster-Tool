@@ -5,9 +5,10 @@
 - Create a `txt file`  
 - Go to your txt file and paste the code inside the `script folder` after that save it.  
 - Then rename it, change the extension file from `txt` to `ps1`.
-- right click the file then `run with powershell`  
+- right click the file then `run with powershell`
+- Enjoy!
 
-Vivo Tool Feature:
+# Vivo Tool Feature:
 ```
 1. 🚀 Enable Gaming Mode
 2. 🧹 Revert to Normal Mode
@@ -16,4 +17,10 @@ Vivo Tool Feature:
 5. 🐝 Enable Battery Honey Mode
 6. ❌ Exit
 ```
+# Disclaimer
+This script is safe to use. It only applies performance and battery optimization through ADB commands without modifying deep system or root-level settings.   
+- No critical system files are changed
+- No hidden or unsafe operations are performed
+- The script is fully reversible (you can restart your device to restore normal behavior)
+The purpose of this script is simply to boost performance and extend battery life on Vivo devices using standard Android debugging options.
 
