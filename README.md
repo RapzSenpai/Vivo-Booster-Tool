@@ -18,7 +18,7 @@
 6. ❌ Exit
 ```
 # Disclaimer
-This script is safe to use. It only applies performance and battery optimization through ADB commands without modifying deep system or root-level settings.  
+This script is safe to use. It only applies performance and battery optimization through ADB commands without modifying deep system or root-level settings.    
 The purpose of this script is simply to boost performance and extend battery life on Vivo devices using standard Android debugging options.  
 - No critical system files are changed
 - No hidden or unsafe operations are performed
